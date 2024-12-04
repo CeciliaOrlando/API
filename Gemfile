@@ -75,3 +75,7 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+#Gemas para el proyecto
+gem "pundit" #para la autorizacion de la api 
+gem 'simple_token_authentication' #para la autenticacion de la api

@@ -77,5 +77,6 @@ group :test do
 end
 
 #Gemas para el proyecto
-gem "pundit" #para la autorizacion de la api 
+gem "pundit" #para la autorizacion de la api
 gem 'simple_token_authentication' #para la autenticacion de la api
+gem 'rack-cors' 
